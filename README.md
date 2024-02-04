@@ -15,7 +15,7 @@ Welcome to the Natural Language Processing (NLP) and Language Modeling (LLM) pro
     - Develop functions to generate new words using trained language models.
     - Utilize sampling approaches to predict and simulate the generation of novel words.
 
-**[Link to Project 1](./Bigram_Analysis_and_Training_Language_Model/) 
+**[Link to Project 1](https://github.com/talalatef/NLP-Training-FineTune-Models/tree/main/Bigram%20Analysis%20and%20Training%20Language%20Model)**
 
 ## Usage:
 
